@@ -1,6 +1,6 @@
 # aws-terraform-modules
 
-/my-terraform-project
+**/my-terraform-project**
 
 │
 
@@ -11,9 +11,6 @@
 ├── terraform.tfvars
 
 └── modules
-
     └── my_module
-    
         ├── main.tf
-        
         └── variables.tf
